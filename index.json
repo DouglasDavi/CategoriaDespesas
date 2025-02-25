@@ -1,0 +1,134 @@
+{
+    "categorias": [
+      {
+        "nome": "Alimentação",
+        "subcategorias": [
+          {
+            "nome": "Restaurante",
+            "tipo": "Variável",
+            "dicas": [
+              "Compare preços antes de escolher onde comer.",
+              "Evite pedir bebidas caras e sobremesas.",
+              "Aproveite promoções e cupons de desconto."
+              
+            ]
+          },
+          {
+            "nome": "Mercado",
+            "tipo": "Variável",
+            "dicas": [
+              "Faça uma lista de compras antes e siga-a à risca.",
+              "Compare preços entre diferentes marcas e produtos.",
+              "Aproveite as promoções e compre produtos da época.",
+              "Que tal esperar o dia da feira e comprar frutas e verduras mais baratos?"
+            ]
+          },
+          {
+            "nome": "Café",
+            "tipo": "Variável",
+            "dicas": [
+              "Prepare seu próprio café em casa e leve para o trabalho.",
+              "Evite comprar cafés em cafeterias caras todos os dias.",
+              "Aproveite as promoções de programas de fidelidade."
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "Moradia",
+        "subcategorias": [
+          {
+            "nome": "Aluguel",
+            "tipo": "Fixo",
+            "dicas": [
+              "Negocie o valor do aluguel antes de assinar o contrato.",
+              "Considere morar em um local menor ou mais afastado do centro.",
+              "Divida o aluguel com outras pessoas."
+            ]
+          },
+          {
+            "nome": "Contas",
+            "tipo": "Fixo",
+            "dicas": [
+              "Compare os preços de diferentes fornecedores de serviços.",
+              "Reduza o consumo de energia e água, tirando os aparelhos eletrônico da tomada.",
+              "Aproveite os descontos para pagamento em dia."
+            ]
+          },
+          {
+            "nome": "Manutenção",
+            "tipo": "Variável",
+            "dicas": [
+              "Faça pequenos reparos você mesmo.",
+              "Compare os preços de diferentes profissionais antes de contratar.",
+              "Peça orçamentos detalhados antes de iniciar os trabalhos."
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "Transporte",
+        "subcategorias": [
+          {
+            "nome": "Combustível",
+            "tipo": "Variável",
+            "dicas": [
+              "Compare os preços dos combustíveis em diferentes postos.",
+              "Mantenha seu carro em dia para economizar combustível.",
+              "Use aplicativos de carona ou transporte público."
+            ]
+          },
+          {
+            "nome": "Transporte Público",
+            "tipo": "Variável",
+            "dicas": [
+              "Use o transporte público sempre que possível.",
+              "Compre bilhetes com antecedência para economizar.",
+              "Aproveite os descontos para estudantes e idosos."
+            ]
+          },
+          {
+            "nome": "Aplicativos de Transporte",
+            "tipo": "Variável",
+            "dicas": [
+              "Compare os preços entre diferentes aplicativos.",
+              "Use os aplicativos em horários de menor movimento.",
+              "Aproveite os cupons de desconto."
+            ]
+          }
+        ]
+      },
+      {
+        "nome": "Lazer",
+        "subcategorias": [
+          {
+            "nome": "Cinema",
+            "tipo": "Variável",
+            "dicas": [
+              "Aproveite as promoções de ingressos.",
+              "Vá ao cinema em horários de menor movimento.",
+              "Leve sua própria pipoca e bebida, ou compre em lugares próximos."
+            ]
+          },
+          {
+            "nome": "Passeios",
+            "tipo": "Variável",
+            "dicas": [
+              "Aproveite os parques e espaços públicos gratuitos.",
+              "Faça passeios em grupo para dividir os custos.",
+              "Leve sua própria comida e bebida."
+            ]
+          },
+          {
+            "nome": "Eventos",
+            "tipo": "Variável",
+            "dicas": [
+              "Compare os preços dos ingressos antes de comprar.",
+              "Aproveite os descontos para compras antecipadas.",
+              "Vá a eventos gratuitos ou com preços acessíveis."
+            ]
+          }
+        ]
+      }
+    ]
+  }
